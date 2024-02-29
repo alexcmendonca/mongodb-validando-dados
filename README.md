@@ -4,7 +4,7 @@
 Criar regras de validação e ajustar regras existentes, tratar de maneira eficiente documentos inválidos: consultando, modificando e até removendo-os de nossas coleções. Adicionalmente, adquirir expertise em desconsiderar a validação de esquema somente no momento de inserir documentos nas coleções.
 
 ###### Imagem 1: MongoDB é um banco de dados NoSQL baseado em documentos
-<img src="/img/etapas-pipeline.png">
+<img src="/img/mongodb.png">
 
 
 ## 🖥️Desafios do Projeto
