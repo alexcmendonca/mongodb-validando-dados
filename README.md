@@ -27,6 +27,9 @@ Neste projeto com MongoDB, foi utilizada a ferramenta NoSQLBooster, uma interfac
 | Identificar como lidar com documentos inválidos | Conhecer como consultar e manipular os documentos utilizando o esquema |
 | Discernir como ignorar as regras de validação no momento de inserir documentos |  |
 
+##  🗂️Organização dos Arquivos
+* Neste repositório, você encontrará uma variedade de scripts destinados a diversas tarefas relacionadas ao MongoDB. Estes scripts foram desenvolvidos para realizar consultas em regras existentes, manipular dados inválidos, analisar informações das coleções, validar entradas, inserir dados e modificar validações já existentes. Projetados para facilitar e automatizar diversas operações no MongoDB, proporcionando maior eficiência e praticidade nas atividades de gerenciamento do banco de dados.
+
 
 ## 🔍Referências
 - [Alura](https://www.alura.com.br/)
